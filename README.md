@@ -1,6 +1,6 @@
 # postnorddelivery
 A simple suite of scripts to automatically add Google Calendar entries whenever the mail is getting delivered in your area.
-Uses Google Apps Script system.
+Uses [Google Apps Script](https://script.google.com/) system.
 
 ![image](https://user-images.githubusercontent.com/2158568/226165733-938060e8-0847-452e-ae30-19e6665ec1fe.png)
 
